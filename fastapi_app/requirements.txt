@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary  # PostgreSQL driver
+python-dotenv    # For managing environment variables locally
+jinja2           # For rendering the HTML UI
